@@ -56,7 +56,7 @@ q {
   color: var(--color-primary)
 }
 
-em, strong, del, ins, abbr, dfn {
+em, strong, del, ins, abbr, dfn, i, b, mark, s, u {
   font-family: var(--font-secondary);
   font-weight: normal;
   color: var(--color-primary)
