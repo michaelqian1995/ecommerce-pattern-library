@@ -7,35 +7,35 @@
   --color-whatever: #808183;
 
 
---font-primary: "Francois One", sans-serif;
---font-secondary: "Merriweather", serif;
+--font-primary: "Merriweather", serif;
+--font-secondary: "Francois One", sans-serif;
 }
 
 html {
-  font-family: var(--font-secondary);
+  font-family: var(--font-primary);
 }
 
 h1 {
-  font-family: var(--font-primary);
+  font-family: var(--font-secondary);
   font-style: normal;
   font-weight: bold
   color: var(--color-secondary);
 }
 
 h2, h3, h4, h5, h6 {
-  font-family: var(--font-primary);
+  font-family: var(--font-secondary);
   font-style: normal;
   font-weight: bold
   color: var(--color-primary);
 }
 
 ul, ol, dl {
-  font-family: var(--font-primary);
+  font-family: var(--font-secondary);
   color: var(--color-primary);
 }
 
 a {
-  font-family: var(--font-primary);
+  font-family: var(--font-secondary);
   font-style: normal;
   font-weight: bold
   color: var(--color-secondary);
@@ -43,21 +43,21 @@ a {
 }
 
 blockquote, cite {
-  font-family: var(--font-secondary);
+  font-family: var(--font-primary);
   font-style: normal;
   font-weight: normal;
   color: var(--color-primary)
 }
 
 q {
-  font-family: var(--font-secondary);
+  font-family: var(--font-primary);
   font-style: italic;
   font-weight: normal;
   color: var(--color-primary)
 }
 
 em, strong, del, ins, abbr, dfn, i, b, mark, s, u {
-  font-family: var(--font-secondary);
+  font-family: var(--font-primary);
   font-weight: normal;
   color: var(--color-primary)
 }

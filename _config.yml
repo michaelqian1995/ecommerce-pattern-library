@@ -9,3 +9,6 @@ patternbot:
 
   rationales:
       typefaces.primary: |
+        Francois One was selected for primary font, Francois One is to be used for all heading in website.
+      typefaces.secondary: |
+        Merriweather was selected because it's a classic font-for classic creatures. Merriweather is to be used for all body copy and most situations.
