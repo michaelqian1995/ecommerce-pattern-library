@@ -7,7 +7,7 @@ patternbot:
     A website where you can customize or buy stickers.
   font_url: "https://fonts.googleapis.com/css?family=Francois+One|Merriweather"
   colors:
-    background:"--color-primary-light"
+    background: "--color-primary"
     accent: "--color-accent"
     patterns:
       brand.logos: "--color-primary"
