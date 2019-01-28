@@ -8,7 +8,7 @@ patternbot:
   font_url: "https://fonts.googleapis.com/css?family=Francois+One|Merriweather"
   colors:
     background:"--color-primary-light"
-    accent: "--color-secondary"
+    accent: "--color-accent"
     patterns:
       brand.logos: "--color-primary"
 
