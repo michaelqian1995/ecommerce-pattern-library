@@ -6,9 +6,18 @@ patternbot:
   description: |
     A website where you can customize or buy stickers.
   font_url: "https://fonts.googleapis.com/css?family=Francois+One|Merriweather"
+  colors:
+    background:"--color-primary-light"
+    accent: "--color-secondary"
+    patterns:
+      brand.logos: "color-primary"
 
   rationales:
       typefaces.primary: |
         Francois One was selected for primary font, Francois One is to be used for all heading in website.
       typefaces.secondary: |
         Merriweather was selected because it's a classic font-for classic creatures. Merriweather is to be used for all body copy and most situations.
+      colors.primary: |
+        The primary colors represent Nav background.
+      colors.secondary: |
+        The secondary colors respresent text color in Navigation Bar.
