@@ -1,3 +1,26 @@
 h2, p {
-  color: var(--color-secondary);
+  color: var(--color-primary);
+  font-family: var(--font-secondary);
+  font-weight: bold;
+}
+
+.card {
+  background-color: var(--color-secondary);
+  border: 5px solid var(--color-primary);
+  border-radius: 25px;
+  transition: 250ms;
+  margin: .5rem auto;
+  padding: 1rem;
+}
+
+.cardmixwith {
+    max-width: 25rem;
+}
+
+h2 {
+  font-family: bold;
+}
+
+.card-rounded {
+  border-radius: 25px;
 }
