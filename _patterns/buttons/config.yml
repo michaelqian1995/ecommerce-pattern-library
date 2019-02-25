@@ -13,3 +13,11 @@ patterns:
     description: |
       The ghost button is specifically for banners, where it will be placed in front of busy images.
     background: "--color-primary-light"
+  forward:
+    title: "Forward"
+    description: |
+      The forword button will be used on Page forward jump.
+  back:
+    title: "Back"
+    description: |
+      The back button will be used on Page back jump.

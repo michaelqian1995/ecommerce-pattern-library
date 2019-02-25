@@ -2,7 +2,7 @@
   background-color: var(--color-primary);
   border-color: var(--color-secondary);
   color: var(--color-secondary);
-  border-radius: 25px;
+  border-radius: 15px;
 }
 
 .btn:hover {
@@ -19,7 +19,7 @@
 }
 
 .btn-ghost:hover {
-  color: var(--color-secondary);
+  color: var(--color-primary);
   border-radius: 15px;
 }
 
@@ -30,7 +30,9 @@
   border-radius: 15px;
 }
 
-a {
+.buttons {
   font-family: var(--font-secondary);
   font-weight: bold;
+  width: 10rem;
+  height: 3.1rem;
 }

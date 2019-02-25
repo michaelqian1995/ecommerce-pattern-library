@@ -1,0 +1,13 @@
+title: "Navigation"
+description: |
+  The navbar is fully contained by an HTML5 Nav tag. Inside a recommended container div, there are 2 main parts of the navbar. A logo or brand link, and the navigations links.
+
+patterns:
+  navigation_bar:
+    title: "Navigation Bar"
+    description: |
+      The Navigation Bar will be used on every pages.
+  side_nav:
+    title: "Navigation Side Bar"
+    description: |
+      The side bar will be used on library pages, when the screen size less then 607px, the side bar will be hide.

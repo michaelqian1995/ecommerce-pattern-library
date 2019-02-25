@@ -1,0 +1,13 @@
+title: "Card"
+description: |
+  Cards are a convenient means of displaying content composed of different types of objects. They’re also well-suited for presenting similar objects whose size or supported actions can vary considerably, like photos with captions of variable length.
+
+patterns:
+  itemcard:
+    title: "Item Card"
+    description: |
+      The item card is used to display the specific information of the item.
+  card:
+    title: "card"
+    description: |
+      The card is used to display the item in the library pages.
