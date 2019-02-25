@@ -1,0 +1,44 @@
+header {
+  background-color: var(--color-primary);
+}
+
+span {
+  color: var(--color-secondary);
+  font-family: var(--font-secondary);
+  font-weight: bold;
+}
+
+.line {
+  background-image: linear-gradient(to right, #000000, #808080, #f2f2f2);
+  height: .325rem;
+}
+
+.line-thin {
+  height: .125rem;
+}
+
+.line-thick {
+  height: 1.5rem;
+}
+
+.side_bar {
+  background-color: var(--color-secondary);
+}
+
+.side_bar_content {
+  color: var(--color-primary);
+  font-family: var(--font-primary);
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav a:hover {
+  background-color: var(--color-secondary);
+  color: var(--color-primary);
+}
+
+.nav a:focus {
+  outline: black;
+}

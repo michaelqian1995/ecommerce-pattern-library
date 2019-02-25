@@ -1,0 +1,44 @@
+<div class="max-length island">
+  <h2 class="push-0 pad-b-1-2">Shipping and Billing</h2>
+  <form class="grid" action="#" method="post" novalidate>
+    <p class="unit [ xs-1-2 s-1-2 m-1-2 l-1-2 ] pad-t-1-2 push-0 gutter-1-2">Amount</p>
+    <p class="unit [ xs-1-2 s-1-2 m-1-2 l-1-2 ] pad-t-1-2 push-0 gutter-1-2">$1.2</p>
+    <p class="unit [ xs-1-2 s-1-2 m-1-2 l-1-2 ] pad-t-1-2 push-0 gutter-1-2">To</p>
+    <p class="unit [ xs-1-2 s-1-2 m-1-2 l-1-2 ] pad-t-1-2 push-0 gutter-1-2">$1.2</p>
+
+    <div class="unit [ xs-1 s-1 m-1-2 l-1-2 ] push-1-2 gutter-1-2 pad-t-1-2">
+      <label for="Credit_card_number">Card number</label>
+      <input id="credit-card-number" required aria-describedby="credit-card-number-error">
+      <p class="error-message milli island-1-4 push-0" id="credit-card-number-error">
+        <i class="icon i-16"><svg><use xlink:href="images/icons.svg#error" /></svg></i>
+        <span class="icon-label">Please provide Credit card number</span>
+      </p>
+    </div>
+
+    <div class="unit [ xs-1 s-1 m-1-2 l-1-2 ] push-1-2 gutter-1-2 pad-t-1-2">
+      <label for="exp-date">Exp Date</label>
+      <input id="exp-date" required aria-describedby="exp-date-error">
+      <p class="error-message milli island-1-4 push-0" id="exp-date-error">
+        <i class="icon i-16"><svg><use xlink:href="images/icons.svg#error" /></svg></i>
+        <span class="icon-label">Please provide a date</span>
+      </p>
+    </div>
+
+    <div class="unit [ xs-1-4 s-1-4 m-1-4 l-1-4 ] push-1-2 gutter-1-2">
+      <label for="cvv">CVV</label>
+      <input id="cvv" required aria-describedby="cvv-error">
+      <p class="error-message milli island-1-4 push-0" id="cvv-error">
+        <i class="icon i-16"><svg><use xlink:href="images/icons.svg#error" /></svg></i>
+        <span class="icon-label">Please provide cvv</span>
+      </p>
+    </div>
+
+    <div class="unit [ xs-1-4 s-1-4 m-1-4 l-1-4 ] push-1-2 gutter-1-2">
+    </div>
+
+    <div class="unit [ xs-2-4 s-2-4 m-2-4 l-2-4 ] pad-t-1-2 gutter-1-2 text-center">
+      <button class="btn" type="submit">Check Out</button>
+    </div>
+    <script src="https://thomasjbradley.github.io/form-validation-helper/index.js"></script>
+  </form>
+</div>

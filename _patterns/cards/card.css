@@ -4,6 +4,11 @@ h2, p {
   font-weight: bold;
 }
 
+small {
+  font-family: var(--font-primary);
+  font-weight: bold;
+}
+
 .card {
   background-color: var(--color-secondary);
   border: 5px solid var(--color-primary);
@@ -11,6 +16,12 @@ h2, p {
   transition: 250ms;
   margin: .5rem auto;
   padding: 1rem;
+}
+
+.card_board {
+  border: 1px solid var(--color-primary);
+  border-radius: 25px;
+  transition: 50ms;
 }
 
 .cardmixwith {
