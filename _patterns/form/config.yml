@@ -7,7 +7,3 @@ patterns:
     title: "Type 1 from part 1"
     description: |
       The Navigation Bar will be used on every pages.
-  side_nav:
-    title: "Navigation Side Bar"
-    description: |
-      The side bar will be used on library pages, when the screen size less then 607px, the side bar will be hide.
