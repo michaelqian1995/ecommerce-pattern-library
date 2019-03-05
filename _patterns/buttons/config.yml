@@ -4,10 +4,31 @@ description: |
 
 patterns:
   basic:
+    fields:
+      - name: text
+        type: string
+        example: "Go vist the library"
+      - name: url
+        type: url
+        example: "/products/"
     title: "Basic"
     description: |
       Default to using the basic button. it should always be used in fon of light backgrounds.
     width: "12em"
+
+  buy:
+    fields:
+      - name: text
+        type: string
+        example: "buy"
+      - name: url
+        type: url
+        example: "/cart/"
+    title: "Buy Button"
+    description: |
+      the button to link the cart page
+
+
   ghost:
     title: "Ghost"
     description: |

@@ -33,6 +33,13 @@
 .buttons {
   font-family: var(--font-secondary);
   font-weight: bold;
-  width: 10rem;
+  width: 18rem;
+  height: 3.1rem;
+}
+
+.buy_button {
+  font-family: var(--font-secondary);
+  font-weight: bold;
+  width: 8rem;
   height: 3.1rem;
 }

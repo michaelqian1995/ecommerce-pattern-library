@@ -12,6 +12,10 @@ patternbot:
     patterns:
       brand.logos: "--color-primary"
 
+  layouts:
+    default: |
+      The default layout should be used for almost every page, it includes the website's primary header & footer.
+
   rationales:
       typefaces.primary: |
         Francois One was selected for primary font, Francois One is to be used for all heading in website.
