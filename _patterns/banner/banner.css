@@ -10,10 +10,28 @@
   background-size: 100% auto;
 }
 
+.banner_3 {
+  background-image: linear-gradient(to top, rgba(0, 0, 0, .6), rgba(0, 0, 0, 0)), url("/images/banner/banner_4.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+
 .bg {
   background-color: var(--color-primary-light);
 }
 
 .banner-content {
+  color: var(--color-secondary);
+}
+
+.intro-banner {
+  background-color: var(--color-secondary);
+}
+
+.intro-banner_1 {
+  background-color: var(--color-primary);
+}
+
+.banner_content {
   color: var(--color-secondary);
 }

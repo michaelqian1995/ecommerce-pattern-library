@@ -8,3 +8,36 @@ patterns:
         - name: heading
           type: string
           example: "Welcome to Sticker!"
+
+    banner_3:
+      fields:
+        - name: heading
+          type: string
+          example: "Welcome to LIBRARY!"
+
+    intro_banner_1:
+      fields:
+        - name: heading
+          type: string
+          example: "What is Sticker?"
+        - name: text
+          type: string
+          example: "Sticker is a website for sharing, creating and purchasing stickers. Whether you are an illustrator, sticker enthusiast or a skateboarder who wants to decorate your skateboard, you can buy or get stickers or inspiration here."
+
+    intro_banner_2:
+      fields:
+        - name: heading
+          type: string
+          example: "What is LIBRARY?"
+        - name: text
+          type: string
+          example: "The LIBRARY is a page that collects all the stickers you can buy. Choose your favorite stickers and add them to your shopping CART."
+
+    intro_banner_3:
+      fields:
+        - name: heading
+          type: string
+          example: "How to Upload My Work?"
+        - name: text
+          type: string
+          example: "Because budgetary constraints do not yet have this function, so why not go to the library for a stroll."

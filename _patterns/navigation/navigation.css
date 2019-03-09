@@ -22,7 +22,7 @@ span {
 }
 
 .side_bar {
-  background-color: var(--color-secondary);
+  background-color: var(--color-primary);
 }
 
 .side_bar_content {
@@ -41,4 +41,8 @@ a {
 
 .nav a:focus {
   outline: black;
+}
+
+.side_nav {
+  max-width: 15rem;
 }

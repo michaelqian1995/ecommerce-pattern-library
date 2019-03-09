@@ -13,9 +13,12 @@
 }
 
 .btn-ghost {
+  font-family: var(--font-secondary);
+  font-weight: bold;
   background-color: transparent;
   color: var(--color-secondary);
   border-radius: 15px;
+  height: 3.1rem;
 }
 
 .btn-ghost:hover {
