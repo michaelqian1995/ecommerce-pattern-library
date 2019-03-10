@@ -11,9 +11,9 @@ patterns:
       - name: url
         type: url
         example: "/products/"
-    title: "Basic"
+    title: "Library Button"
     description: |
-      Default to using the basic button. it should always be used in fon of light backgrounds.
+      The Button to Library.
     width: "12em"
 
   buy:
@@ -26,8 +26,7 @@ patterns:
         example: "/cart/"
     title: "Buy Button"
     description: |
-      the button to link the cart page
-
+      the button for buying products, point to Cart page.
 
   ghost:
     title: "Ghost"

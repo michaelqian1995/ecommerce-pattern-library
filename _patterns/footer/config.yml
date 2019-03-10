@@ -1,9 +1,9 @@
 title: "footer"
 description: |
-  Footers are a great way to organize a lot of site navigation and information at the end of a page. This is where the user will look once they have finished scrolling through the current page or are looking for additional information about your website.
+  Footers are a great way to organize a lot of site navigation and information at the end of a page. This is where the user will look once they have finished scrolling through the current page or are looking for additional information about website.
 
 patterns:
-  itemcard:
+  footer:
     title: "footer"
     description: |
       The footer should always on the bottom of the every pages.

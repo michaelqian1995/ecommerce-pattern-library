@@ -8,12 +8,18 @@ patterns:
         - name: heading
           type: string
           example: "Welcome to Sticker!"
+      title: "Home page's banner"
+      description: |
+        The Banner will be use on home page.
 
     banner_3:
       fields:
         - name: heading
           type: string
           example: "Welcome to LIBRARY!"
+      title: "Products page's banner"
+      description: |
+        The Banner will be use on products page.
 
     intro_banner_1:
       fields:
@@ -23,6 +29,9 @@ patterns:
         - name: text
           type: string
           example: "Sticker is a website for sharing, creating and purchasing stickers. Whether you are an illustrator, sticker enthusiast or a skateboarder who wants to decorate your skateboard, you can buy or get stickers or inspiration here."
+      title: "Intro banner 1"
+      description: |
+        The Banner will place under the Home page's banner.
 
     intro_banner_2:
       fields:
@@ -32,6 +41,9 @@ patterns:
         - name: text
           type: string
           example: "The LIBRARY is a page that collects all the stickers you can buy. Choose your favorite stickers and add them to your shopping CART."
+      title: "Intro banner 1"
+      description: |
+        The Banner will place under the intro banner 1.
 
     intro_banner_3:
       fields:
@@ -41,3 +53,6 @@ patterns:
         - name: text
           type: string
           example: "Because budgetary constraints do not yet have this function, so why not go to the library for a stroll."
+      title: "Intro banner 3"
+      description: |
+        The Banner will place under the intro banner 2.
