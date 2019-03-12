@@ -11,3 +11,14 @@ patterns:
     title: "card"
     description: |
       The card is used to display the item in the library pages.
+
+  product-card:
+    title: "Suitcase travel sticker"
+    width: 400
+    description: |
+      This is a Sticker.
+    fields:
+      - name: data
+        type: object
+        data:
+          source: "site.products[0]"

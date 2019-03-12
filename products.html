@@ -3,3 +3,11 @@ layout: default
 ---
 
 {% pattern banner/banner_3 heading="Welcome to LIBRARY!" %}
+
+<div class="grid gutter-1-4 grid-stretch">
+  {% for product in site.products %}
+  <div class="unit [ xs-1 s-1 m-1-3 l-1-4] island-1-4 unit-content-distribute">
+    {% pattern cards/product-card data=product %}
+  </div>
+  {% endfor %}
+</div>
