@@ -7,10 +7,6 @@ patterns:
     title: "Item Card"
     description: |
       The item card is used to display the specific information of the item.
-  card:
-    title: "card"
-    description: |
-      The card is used to display the item in the library pages.
 
   product-card:
     title: "Suitcase travel sticker"
