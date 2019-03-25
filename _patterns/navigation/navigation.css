@@ -45,4 +45,5 @@ a {
 
 .side_nav {
   max-width: 15rem;
+  border-radius: 25px;
 }
