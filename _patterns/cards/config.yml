@@ -18,3 +18,4 @@ patterns:
         type: object
         data:
           source: "site.products[0]"
+          type: Product
