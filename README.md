@@ -47,3 +47,4 @@ Netlify URL: [https://serene-elion-9b2be5.netlify.com](https://serene-elion-9b2b
 
 - [@nilababaei](https://github.com/nilababaei)
 - [@thomasjbradley](https://github.com/thomasjbradley)
+- [@patricia568] (https://github.com/patricia568)
