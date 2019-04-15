@@ -15,6 +15,6 @@ colors:
   - "Blue"
   - "Red"
 shape: "Round"
-clarity: "VVS1"d
+clarity: "VVS1"
 
 ---
