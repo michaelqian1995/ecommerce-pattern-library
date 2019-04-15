@@ -17,7 +17,6 @@ GEM
     ffi (1.10.0)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
-
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     indifference (0.0.1)
