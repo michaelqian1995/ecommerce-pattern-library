@@ -31,6 +31,7 @@
     }
   };
 
+
   var isOneOfManyValid = function (elem) {
     var isOneSelected = false;
     var allChecks = elem.querySelectorAll('[type="checkbox"], [type="radio"]');
