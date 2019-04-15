@@ -9,7 +9,6 @@ The pattern library is a Jekyll & Patternbot based application, so it requires R
 
 ---
 
-
 ## Starting the server
 
 The pattern library is a Jekyll & Patternbot based application that requires a running Terminal instance.
