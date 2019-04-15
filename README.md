@@ -20,6 +20,7 @@ The pattern library is a Jekyll & Patternbot based application that requires a r
 
 ---
 
+
 ## Project description & context
 
 This project was aimed to be the creation of a complete website, specifically an eCommerce website. The [pattern library](http://localhost:4000/pattern-library/) was created in order to organize the content and the URL of each piece of content that can be taken and used together in an html file. The [/index.html](/index.html) and [/products.html](/products.html) file have been completed by the creator. The classmate is expected to complete the [/checkout-form.html](/checkout-form.html) and the [/_layouts/product.html](/_layouts/product.html) using Jekyll. The [/checkout-form.html](/checkout-forms.html) can be navigated through pressing the cart button at the top-right corner of [http://localhost:4000](http://localhost:4000). The [/_layouts/product.html](/_layouts/product.html) can be navigated through pressing any crystal card chosen on [http://localhost:4000/products/](http://localhost:4000/products/). The wireframe of both required pages can be found in the [/screenshots](/screenshots) folder.
